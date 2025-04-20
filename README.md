@@ -75,19 +75,6 @@ Unity 🎮 · Phaser.js 🕹️
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sploit&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sploit&layout=compact&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sploit&theme=radical" height="180" />
-</p>
-
----
-
 <p align="center">
   <em>"Code is like coffee: strong, intense, and absolutely necessary."</em> ☕
 </p>
