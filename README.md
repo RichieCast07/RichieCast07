@@ -2,12 +2,12 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBmYnR1a3Bmc2gzMWdiNzQ2YXpmYXVwaWw3cTk2MWRkbTIwZTE3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="400" />
 </p>
 
-<h1 align="center">👋 Hola, soy Sploit</h1>
-<p align="center">🚀 Full Stack Developer | 🎮 Game Dev | ☁️ Cloud Enthusiast | 🎨 UI/UX Lover | ☕ Fundador de <strong>Adicto al Café</strong></p>
+<h1 align="center">👋 Hi, I'm Sploit</h1>
+<p align="center">🚀 Full Stack Developer | 🎮 Game Dev | ☁️ Cloud Enthusiast | 🎨 UI/UX Lover | ☕ Founder of <strong>Adicto al Café</strong></p>
 
 ---
 
-### 📲 Conectá conmigo
+### 📲 Connect with me
 
 <p align="center">
   <a href="https://www.youtube.com/@adictoal_cafe">
@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/GitHub-Sploit-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-TuNombre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/tu-twitter">
-    <img src="https://img.shields.io/badge/Twitter-@TuUsuario1x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -57,10 +57,10 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
 
-#### 🧠 Arquitecturas  
+#### 🧠 Architectures  
 🧼 Clean · 🧱 Hexagonal · ⚡ Event-Driven · 📐 SOLID
 
-#### 🎨 Diseño  
+#### 🎨 Design  
 Figma ✏️
 
 #### 🎮 Game Dev  
@@ -89,5 +89,5 @@ Unity 🎮 · Phaser.js 🕹️
 ---
 
 <p align="center">
-  <em>"El código es como el café: fuerte, intenso y necesario."</em> ☕
+  <em>"Code is like coffee: strong, intense, and absolutely necessary."</em> ☕
 </p>
