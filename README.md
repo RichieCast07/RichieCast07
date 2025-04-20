@@ -1,64 +1,36 @@
-<h1 align="center">👋 ¡Hola! Soy Sploit</h1>
-<p align="center">Desarrollador Full Stack, amante del café y la tecnología ☕💻</p>
+<h1 align="center">👨‍💻 Sploit</h1>
+<p align="center">☕ Full Stack Dev | 🎮 Game Dev | 🎨 UI/UX | 🚀 Cloud & Blockchain</p>
 
 ---
 
-### 🚀 Sobre mí
-Soy un apasionado del desarrollo de software con experiencia en múltiples lenguajes, arquitecturas modernas y creación de experiencias visuales e interactivas, desde la web hasta videojuegos. Me encanta compartir lo que aprendo en mi canal de YouTube [Adicto al Café](https://www.youtube.com/@adictoal_cafe) ☕✨
+### ⚡ Tech Stack
+
+#### 🖥️ Backend
+Java ☕ | Go 🐹 | Python 🐍 | Rust 🦀 | Kotlin 🧩 | Motoko 🔮 | C++ 💻 | SQL 🗃️
+
+#### 🌐 Frontend
+HTML 🌐 | CSS 🎨 | Tailwind 💅 | JS ⚡ | TS 💎 | React ⚛️ | Angular 🅰️ | Vanilla JS 🍦
+
+#### ☁️ Cloud & Infra
+AWS ☁️ | Firebase 🔥 | RabbitMQ 🐰
+
+#### 🧠 Arquitecturas
+🧼 Clean | 🧱 Hexagonal | ⚡ Event-Driven | 📐 SOLID
+
+#### 🎨 Diseño
+Figma ✏️🖌️
+
+#### 🎮 Game Dev
+Unity 🕹️ | Phaser.js 🔗🎮
 
 ---
 
-### 🧠 Lenguajes que manejo
+### 📲 Conectá conmigo
 
-| Backend 🔙     | Frontend 🎨        | Otros 🛠️             |
-|----------------|--------------------|------------------------|
-| Java ☕         | HTML 🌐            | SQL 🗃️                |
-| Python 🐍       | CSS 🎨             | Tailwind CSS 💅        |
-| Go 🐹           | JavaScript ⚡      |                        |
-| Rust 🦀         | TypeScript 💎      |                        |
-| Kotlin 🧩       | React ⚛️           |                        |
-| Motoko 🔮       | Angular 🅰️         |                        |
-| C++ 💻          | Vanilla JS 🍦      |                        |
+[![YouTube](https://img.shields.io/badge/YouTube-Adicto_al_Café-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adictoal_cafe)
+
+<!-- Si tenés LinkedIn o GitHub públicos, puedo agregar más shields acá -->
 
 ---
 
-### ☁️ Servicios en la nube y mensajería
-
-- Amazon Web Services (AWS) ☁️
-- Firebase 🔥
-- RabbitMQ 🐇
-
----
-
-### 🧩 Arquitecturas y principios
-
-- 🧼 Arquitectura Limpia (Clean Architecture)
-- 🧱 Arquitectura Hexagonal
-- ⚡ Arquitectura Orientada a Eventos (Event-Driven)
-- 📐 Principios SOLID
-
----
-
-### 🎨 Diseño
-
-- Figma para prototipado y UI/UX ✏️🖌️
-
----
-
-### 🎮 Desarrollo de videojuegos
-
-- Unity 2D/3D 🕹️
-- Phaser.js (Web + Blockchain Integration) 🔗🎮
-
----
-
-### 🌐 Encuéntrame en redes
-
-- 🎥 YouTube: [Adicto al Café](https://www.youtube.com/@adictoal_cafe)
-- 🧠 LinkedIn: *(Agrega tu link aquí)*
-- 🐱 GitHub: *(Agrega tu username si quieres que aparezca aquí también)*
-
----
-
-> "El código es como el café: si está bien hecho, despierta grandes ideas." ☕💡
-
+> *"El código es como el café: fuerte, intenso y necesario."* ☕🧠
