@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Youtube-Adicto%20al%20Café-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://github.com/Sploit">
-    <img src="https://img.shields.io/badge/GitHub-Sploit-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Sploit07-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/richard-othon-casta%C3%B1eda-de-la-rosa-809b182a1">
     <img src="https://img.shields.io/badge/LinkedIn-Richard Castañeda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
