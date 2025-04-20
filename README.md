@@ -16,10 +16,10 @@
   <a href="https://github.com/Sploit">
     <img src="https://img.shields.io/badge/GitHub-Sploit-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin">
+  <a href="https://www.linkedin.com/in/richard-othon-casta%C3%B1eda-de-la-rosa-809b182a1/Richard Castañeda">
     <img src="https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/tu-twitter">
+  <a href="https://x.com/Sploit_Vx/Sploit_Vx">
     <img src="https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
